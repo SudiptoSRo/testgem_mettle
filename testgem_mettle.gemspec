@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["sudipto.singharoy@mettletech.in"]
 
   spec.summary       = %q{Print the keys of a object}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/SudiptoSRo/testgem_mettle"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
