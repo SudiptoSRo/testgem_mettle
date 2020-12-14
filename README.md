@@ -15,7 +15,7 @@ Or install it yourself as:
 
 ## Usage
 
-To use JSON you can
+To use TestgemMettle you can
 ```ruby
 require 'testgem_mettle'
 ```
